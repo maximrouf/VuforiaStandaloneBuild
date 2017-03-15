@@ -1,6 +1,6 @@
 # Vuforia Standalone Build
 
-PC Windows and Mac OS X builds with Vuforia 6.0 plugin available now!
+PC Windows and Mac OS X builds with Vuforia 6.2 plugin available now!
 
 For all questions: augmented.cv@gmail.com
 
