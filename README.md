@@ -6,7 +6,4 @@ PC Windows and MacOS builds with Vuforia 9.1.7 plugin available now!
 
 For all questions: augmented.cv@gmail.com
 
-
-<img src="https://github.com/maximrouf/VuforiaStandaloneBuild/blob/master/preview_1.png"/>
-
 <img src="https://github.com/maximrouf/VuforiaStandaloneBuild/blob/master/preview_2.png"/>
