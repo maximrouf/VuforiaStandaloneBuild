@@ -1,6 +1,6 @@
 # Vuforia Standalone Build
 
-PC Windows and MacOS builds with Vuforia 9.6.4 plugin available now!
+PC Windows and MacOS builds with Vuforia 10.1.4 plugin available now!
 
 # [Demo Build](https://github.com/maximrouf/VuforiaStandaloneBuild/archive/master.zip)
 
