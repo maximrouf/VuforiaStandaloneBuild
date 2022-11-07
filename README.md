@@ -2,7 +2,7 @@
 
 Unity build with the Vuforia plugin v.10.11.3 for PC Windows and MacOS, already available.
 
-# [Demo Build](https://github.com/maximrouf/VuforiaStandaloneBuild/archive/master.zip)
+# [Demo Build](https://github.com/maximrouf/VuforiaStandaloneBuild/raw/master/VuforiaStandalone_DemoBuild.zip)
 
 For all questions: augmented.cv@gmail.com
 
